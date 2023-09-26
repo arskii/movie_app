@@ -1,0 +1,7 @@
+{
+	"name": "movie_app",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Oleksandr Hubin <konstofff@gmail.com>",
+	"license": "MIT"
+}

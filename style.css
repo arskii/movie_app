@@ -1,0 +1,22 @@
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.movies {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	justify-items: center;
+	grid-gap: 40px;
+}
+
+.movie__card {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.movie__card-img {
+	width: 300px;
+}
